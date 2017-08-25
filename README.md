@@ -1,5 +1,5 @@
-TLA+ Pingpong Example
-=====================
+TLA+ Ping Pong Example
+======================
 
 Nodes use timeouts, ping and pong messages to determine whether the other nodes
 are on or off. 
