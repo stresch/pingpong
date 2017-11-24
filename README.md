@@ -1,6 +1,12 @@
 TLA+ Ping Pong Example
 ======================
 
+This is the example model described in the paper _S. Resch and M. Paulitsch, "Using TLA+ in the Development of a Safety-Critical Fault-Tolerant Middleware," 2017 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Toulouse, France, 2017, pp. 146-152_. doi: [10.1109/ISSREW.2017.43](https://doi.org/10.1109/ISSREW.2017.43)
+
+
+Model Description
+-----------------
+
 Nodes use timeouts, ping and pong messages to determine whether the other nodes
 are on or off. 
 
